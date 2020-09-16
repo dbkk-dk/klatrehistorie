@@ -1,0 +1,145 @@
+#+TITLE: Historie
+
+
+* klatreudstyr
+** karabiner
+Stålkarabiner blev først brugt til klatring omkring 1910, efter den tyske alpinist Otto Herzog havde set kavalarister benytte pæreformede karabiner til fastgørelse af skydevåben(også kalder karabin) til patrolbæltet.
+Ordet karabin er forkortet fra det tyske ord karabinerhaken(da: fjerderkrog)
+De første wire-gate karabiner blev produceret af Black Diamond i 1991. Udover lavere vægt, vil den mindre masse af wire-gaten også forhindre at lukkeren åbner momentant hvis bagsiden af karabinen slynges mod klippen. På internettet er der anekdotisk beskrivelse af at inertien af faste lukkere kan åbne karabinen momentant.
+
+** reb
+De første reb brugt til klatring, var snoede reb af Manila fibre; reb der kom fra maritimt brug.
+Reb af naturlige fibre kan bruges til travers- og toprebsklatring, men er dårlige til at bremse førstemandsstyrt. Det skyldes den høje stivhed af fibrene, der giver store dynamiske kræfter med risiko for at rebet springes. Det er estimeret at faldfaktorer på 0.5 og 0.75 for hhv. hampe- og manilareb er nok til at springe rebet[fn:1].
+Deraf kommer det gamle maxim
+/the leader must not fall/.
+
+I dag bruges kern-mantel reb af nylon, dvs. reb med en kerne af parallelt snoede fibre omgivet af en vævet beskyttende kappe. De første reb af denne type kom frem i 1953, produceret af tyske Edelrid. I 1964 kom Edelrid og Mammut med det første rigtige elastiske reb med en elasticitet på 10%.
+Bemærk i øvrigt at mærkningen af klatrereb i dag ikke angiver brudstyrke, men hvor stor en kraft der overføres til klatren ved et faktor 1.739 fald(4 meters fald på 2.3m reb, for 80 kg). Dette er til forskel fra al anden klatreudstyr, hvor det brudstyrken der angives.
+
+#+name: hillary_mt_cook
+#+caption: Edmond Hillary og Harry Ayres på toppen af New Zealands højeste bjerg Mt. Cook (3724 m), 1947. Med manilareb bundet om livet.
+#+attr_org: :width 100
+[[file:img/edmund_hillary_harry_ayres_mt_cook_1947.jpg]]
+
+** seler
+Indtil starten af 60'erne binder klatreren sig bare fast med rebet direkte om livet. Det betød at et førstmandsstyrt, selv når rebet hold, kunne være fatalt hvis brystkassen blev klemt. Manglen på sele betød også at der ikke var en god måde at bære udstyr på - dog et mindre problem da førstemanden ofte kun havde nogle få slynger med til at putte omkring fremspring eller fastklemte sten.
+
+I 1965 klatrer en gruppe britter som de først Trollvæggen i Norge. Blandt dem er Tony Howard der benytter en af de første bælter til klatring, lavet af en bred læderrem fra et bomuldsværk med påsyede udstyrsslynger. Efter turen laver Howard en udgave af bæltet med en nylon slynge, kaldet Troll Mark 2.
+I 1970 bliver Troll kontaktet af Don Whillans, der har brug for en komfortabel sele til den forestående 1970 Annapurna Sydvægsekspedition. Med sig har han ideen om et nylonsæde, der skal understøtte hofte og lår. Det fører til udviklingen af "Whillans Sit Harness" der i mange år var den eneste rigtige sele på markedet.
+Ulemped ved "Whillans Sit Harness" er dog at der løber et stykke nylon over skridtet og ved fald er der stor risiko for "ondt i skridtet"
+
+Et eksempel på hvor fatalt et fald kunne være, fra før selens indførsel er det berømte billede af Toni Kurz der hænger død på et reb. Kurz var en del af et tysk/østrisk hold der forsøge at bestige Eigers nordvæg i 1936. Efter passage af den svære Hinterstoisser Travers trækker de rebet med sig. Da de senere bliver nød til at vende om, kan de ikke passere traversen og beslutter at rapelle ned. Uheldigvis bliver gruppen ramt af en lavine på sidste absail. Af de fire i gruppen dør to af fald, den tredje bliver kvalt af rebet der går omkring brystkassen og kun Kurz overlever lavinen. Han hænger imidlertid midt på rebet der er spændt ud af en død kammerat over- og under ham, ude af stand til at bevæge sig på rebet.
+Efter flere dage får et redningshold firet et sammenbundet reb ned til ham, men der er Kurz så medtaget at han er ude af stand til at passere knuden hvor de to reb er bundet sammen. Kurz dør kort efter at have udtalt /"Ich kann nicht mehr"/ og i dag kendes han fra det dramatiske billede.
+
+#+name: toni_kurz
+#+caption: Toni Kurz hænger fra et reb på nordsiden af Eiger
+#+ATTR_HTML: width="100px"
+#+ATTR_ORG: :width 100
+[[file:img/toni_kurz.jpg]]
+
+I dag er der teknikker til at binde improviserede seler, enten af et stykke reb eller slynge. En kendt teknik er Swiss Seat(schweizisk sæde) der kan bruges ved absail eller selv-evakuering.
+Lær at binde den ved lejlighed.
+
+** Sko og støvler
+De første støvler til alpint brug var læderstøvler med lædersål. For at forbedre grebet på hårdtpresset sne og is, begyndte alpenister at udstyre dem med en metalsål med udstikkende søm. Disse "klatrejern" var dog ikke specielt sikre at bruge.
+I stedet fremkom den schweiziske juveler Félix-Valentin Genecand, der også var en dygtig alpenist, i starten af det 20-århundrede med et nyt design af søm med en kant, der blev banket direkte på kanten af sålen. Dette design holdt i mange år og blev brugt af "step cutters", der med en isøkse huggede steps i isen.
+Vibram gummisålen til støvler blev udviklet af Vitale Bramani i 1937, der bestemte sig for at designe en bedre bjergstøvle efter at have mistet seks kammerater til bjergbestigning; der manglede en god støvle til mikset klippe- og isterræn.
+
+Først i 60'erne kom klatresko med friktionsgummi.
+
+
+** Steigeisen
+De første steigeisen til alpint brug blev designet af britten Oscar Eckenstein omkring 1908. Ved hjælp af den italienske smed Henry Grivel fra Mont Banc området, blev modellen med ti spidser og uden frontspidser kommercielt tilgængelig i 1910(frontspidser kom først i 1929). Bemærk at der ikke er en tværgående afstiver i front og bag, hvilket kan medføre dårlig stabilitet hvis kun een af forreste pigge bruges. Disse steigeisen var kun gode på sneis, ikke stive nok til lodret solid is(fx. vandfaldsis)
+
+Efter 2. verdenskrig kom der gang i udviklingen igen og Yvon Chouinard konstruerede en helstiv steigeisen, der gjorde det muligt at klatre is "front pointing", dvs. banke de fremadpegende spidser ind i den hårde is.
+
+I dag fås steigeisen som monopoints og indbygget i støvler, kendt som "Fruit Boots", hvilket sikrer stivhed og minimal vægt.
+
+** isøkse
+Før midten af det 19 århundrede var en isøkse blot en lang(mere end een meter, gerne 1.20-1.40m) stav med en jernspids, kaldet en "alpenstock".
+Det kendte malerie "En Bjergbestigerste" af den danske maler J.F. Willumsen fra 1912, viser er bjergbestiger i alperne, støttende til en alpenstock.
+
+Omkring 1840 blev spidsen udskiftet med hakke og adze(det flade stykke), men stadig med langt skaft.
+Det ændrede sig omkring 1900, hvor Oscar Eckenstein(opfinderende af den moderne steigeisen) forkortede skaftet til ca. 85 cm.
+
+I 1966 introducerede amerikaneren Yvon Chouinard(milliardær, grundlægger af Patagonia) en 55cm isøkse med buet hakke. Tanken var, at den buede form skulle matche øksens cirkelbevægelse og dermed sidde bedre fast i isen.
+
+
+Som curiosum skal det nævnes at Leon Trotsky, russisk revolutionær og politiker, blev myrdet i 1940 ved brug af en isøkse efter ordre fra Joseph Stalin. Adzen af isøksen blev banket ca. 7 cm ind i kraniet på Trotsky af en sovjetisk agent, mens han opholdt sig i eksil i Mexico City. Trotsky døde dagen efter af blodtab og chock.
+
+#+name: fig:jf_willumsen_en_bjergbestigerste_1912
+#+caption: J.F. Willumsen, En Bjergbestigerste, Olie på lærred, 1912
+#+ATTR_ORG: :width 100
+[[file:img/jf_willumsen_en_bjergbestigerste_1912.jpg]]
+
+#+caption: Leon Trotsky, 1924
+#+attr_org: :width 100
+[[file:img/leon_trotsky_1924.jpg]]
+
+** Pitons
+De første pitons der blev brugt i europa var af kulstofstål med lavt kulindhold. Det gør stålet blødt og duktilt, hvorfor piton'en deformerede til formen af crack'et når den blev slået ind. Det virkede fint til de irregulære revner der findes i den relativt bløde sydeupæiske kalksten(Tyskland, Italien, Østrig, etc.).
+Bløde pitons er svære at få ud igen, så mange blev efterladt og blev siden til faste ankrepunkter.
+Pitons blev især brugt af tyske alpenister og gjorde det muligt at klatre aid, ved brug pendulsving og stiger til at passere passager uden gode greb.
+
+I Yosemity, hvor klippen er hård granit, virker bløde pitons ikke godt. De var ikke holdbare nok til at blive sat og fjernet mange gange, og det var mod etikken at lade pitons blive siddende.
+Yvon Chouinard, der bl.a. også forbedrede isøksen, begyndte at lave hærdede pitons og sælge dem i Yosemity i 1957. Omkring 1970 bemærker Chouinard at brugen at Pitons giver skade på crags'ne og udvikler Hexantrics(Hexe). Det på trods af at 70% af indkomsten kom fra salg af pitons.
+
+Pitons bliver islået med en klippehammer.
+
+** flytbare sikringer
+*** Hex
+Hexe er sekskantede aluminiumsklodser der bruges som en klemsten. Introduktionen af Hexe var med til at revolutionere friklatringen. Chouinard fik patent på Hexe i 1976 og de blev produceret af hans firma Chouinard Equipment Ltd. indtil 1989, hvor firmaet gik konkurs og resterne opkøbt af tidligere medarbejdere og genetableret under navnet Black Diamond.
+
+Den største hex vist her er hjemmelavet. Det er et stykke udboret hexagonalt(6-kantet) aluminiumsprofil.
+
+*** Kiler (eng: nuts)
+Brittiske klatrere var de første til at bruge kiler i 1950'erne. Inspireret af fastklemte sten, der kan bruges som sikring ved at sætte en slynge rundt om den, begyndte de at bruge store møtrikker fundet ved jernbanen som kunstige klemsten. Den første kommercielle kile kom i 1961, lavet af en smed i Sheffield.[fn:3]
+
+I 1966 besøgte yosemity klatreren Royal Robbins England, hvor han blev introduceret til kiler og bragte dem med tilbage. Men først i begyndelsen af 1970'erne vinder kilerne indpas, efter at ruten "Regular Northwest Face" på Half Dome blev friklatret uden brug af pitons 1973(grad 5.11d / 7a). Klatrerne skrev derefter artiklen "Climbing Half-Dome the Hard Way (hammerless)" i National Geographic i 1974.[fn:4]
+
+Samtidig havde en af klatrene, Doug Robinson, skrevet et essay "The Whole Natural Art of Protection" i Chouinard's udstyrskatalog, den tids stærkeste proponent for "clean climbing[fn:5]"
+Det markerede starten på friklatring i Yosemity og indledte et årti med mange nye innovationer inden for klatreudstyr.
+
+#+name: nuts_natgeo
+#+caption: Figur der viser bruges af kiler. Fra artiklen "Climbing Half Dome the Hard Way" bragt i National Geographic 1974
+#+attr_org: :width 100
+[[file:img/nuts_natgeo_1974.png]]
+
+** Bremser
+*** figure 8 og stitch plade
+Stitch-pladen, en forløber for den moderne ATC, blev brugt ved sikring med de ny-fremkomne kernmantle reb. Reb af manila er for stive til brug ved stitch-pladen.
+Tidligere var sikringsteknikken at køre rebet enten om hoften eller skulderen og så bruge den friktion der skabes mellem reb og tøj(eller hud) til at arrestere faldet.
+
+Fjederen skal forhindre at pladen presses helt ned mod karabinen og dermed jammer rebet og snoren forhindre at pladen vandrer op af rebet.
+Ved lange absails bliver stitch'en meget varm og i stedet benyttedes et stort stykke alumium i form af et 8-tal. Den øgede masse gør det muligt at dissipere varmen bedre.
+
+I 1991 lancerede det franske firma Petzl deres Grigri, den første assisterende bremse. Den blev afløst af Grigri2 i 2011 og er i dag den mest populære bremse. En grigri bruges i dag også til selvsikring(eng: lead rope solo) og klatring på reb.
+Navnet grigri kommer af det afrikanske ord Gris-gris, en Voodoo amulet brugt i vestafrika. En Gris-gris skærmer sin bærer fra ondskab og bringer lykke.[fn:6]
+
+
+** Videoer
+I 1994 var Lynn Hill var den første til at friklatre El Capitans's The Nose. En bedrift flere klatrer tidligere havde dømt umulig. Se en video af [[https://youtu.be/yS63AdRSnl8][Lynn Hill øve sig på nogle af sekvenserne]]
+
+
+
+* footnotes
+
+[fn:6]
+https://www.petzl.com/US/en/Sport/News/2015-7-22/The-GRIGRI-belay-device--a-concept-that-forever-changed-climbing
+https://rockclimbing.com/cgi-bin/forum/gforum.cgi?post=1192036#1192036
+
+[fn:5]
+https://climbaz.com/chouinard72/chouinard.html
+
+[fn:4]
+National Geographic Magazine, Vol. 145, No. 6, pp. 782-791, June 1974, Climbing Half Dome the Hard Way, Galen Rowel
+
+[fn:3]
+https://www.climbing.com/people/the-nut-chronicles/
+
+[fn:1]
+Smith, R. A.The development of equipment to reducerisk in rock climbing.Sports Eng., 1998,1, 27–39.
+
+[fn:2]
+http://www.paci.com.au/knots.php
+http://asiteaboutnothing.net/cr_most-useful-knots.html
