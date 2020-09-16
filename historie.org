@@ -26,7 +26,7 @@ Indtil starten af 60'erne binder klatreren sig bare fast med rebet direkte om li
 
 I 1965 klatrer en gruppe britter som de først Trollvæggen i Norge. Blandt dem er Tony Howard der benytter en af de første bælter til klatring, lavet af en bred læderrem fra et bomuldsværk med påsyede udstyrsslynger. Efter turen laver Howard en udgave af bæltet med en nylon slynge, kaldet Troll Mark 2.
 I 1970 bliver Troll kontaktet af Don Whillans, der har brug for en komfortabel sele til den forestående 1970 Annapurna Sydvægsekspedition. Med sig har han ideen om et nylonsæde, der skal understøtte hofte og lår. Det fører til udviklingen af "Whillans Sit Harness" der i mange år var den eneste rigtige sele på markedet.
-Ulemped ved "Whillans Sit Harness" er dog at der løber et stykke nylon over skridtet og ved fald er der stor risiko for "ondt i skridtet"
+Ulemped ved "Whillans Sit Harness" er dog at der løber et stykke nylon over skridtet og ved fald er der stor risiko for "ondt i skridtet"[fn:7]
 
 Et eksempel på hvor fatalt et fald kunne være, fra før selens indførsel er det berømte billede af Toni Kurz der hænger død på et reb. Kurz var en del af et tysk/østrisk hold der forsøge at bestige Eigers nordvæg i 1936. Efter passage af den svære Hinterstoisser Travers trækker de rebet med sig. Da de senere bliver nød til at vende om, kan de ikke passere traversen og beslutter at rapelle ned. Uheldigvis bliver gruppen ramt af en lavine på sidste absail. Af de fire i gruppen dør to af fald, den tredje bliver kvalt af rebet der går omkring brystkassen og kun Kurz overlever lavinen. Han hænger imidlertid midt på rebet der er spændt ud af en død kammerat over- og under ham, ude af stand til at bevæge sig på rebet.
 Efter flere dage får et redningshold firet et sammenbundet reb ned til ham, men der er Kurz så medtaget at han er ude af stand til at passere knuden hvor de to reb er bundet sammen. Kurz dør kort efter at have udtalt /"Ich kann nicht mehr"/ og i dag kendes han fra det dramatiske billede.
@@ -124,6 +124,9 @@ I 1994 var Lynn Hill var den første til at friklatre El Capitans's The Nose. En
 
 * footnotes
 
+[fn:7]
+[[file:litteratur/harness_development.pdf][Tony Howard, The origins of the Climbing Sit Harness]]
+
 [fn:6]
 https://www.petzl.com/US/en/Sport/News/2015-7-22/The-GRIGRI-belay-device--a-concept-that-forever-changed-climbing
 https://rockclimbing.com/cgi-bin/forum/gforum.cgi?post=1192036#1192036
@@ -132,13 +135,13 @@ https://rockclimbing.com/cgi-bin/forum/gforum.cgi?post=1192036#1192036
 https://climbaz.com/chouinard72/chouinard.html
 
 [fn:4]
-National Geographic Magazine, Vol. 145, No. 6, pp. 782-791, June 1974, Climbing Half Dome the Hard Way, Galen Rowel
+[[file:litteratur/National-Geographic-1974-from-AAC.pdf][National Geographic Magazine, Vol. 145, No. 6, pp. 782-791, June 1974, Climbing Half Dome the Hard Way, Galen Rowel]]
 
 [fn:3]
 https://www.climbing.com/people/the-nut-chronicles/
 
 [fn:1]
-Smith, R. A.The development of equipment to reducerisk in rock climbing.Sports Eng., 1998,1, 27–39.
+[[file:litteratur/smith1998_equip_reduced_risk.pdf][Smith, R. A.The development of equipment to reducerisk in rock climbing.Sports Eng., 1998,1, 27–39.]]
 
 [fn:2]
 http://www.paci.com.au/knots.php
