@@ -77,20 +77,34 @@ Som curiosum skal det nævnes at Leon Trotsky, russisk revolutionær og politike
 [[file:img/leon_trotsky_1924.jpg]]
 
 ** Pitons
-De første pitons der blev brugt i europa var af kulstofstål med lavt kulindhold. Det gør stålet blødt og duktilt, hvorfor piton'en deformerede til formen af crack'et når den blev slået ind. Det virkede fint til de irregulære revner der findes i den relativt bløde sydeupæiske kalksten(Tyskland, Italien, Østrig, etc.).
+De første pitons(da: slagbolte) der blev brugt i europa var af kulstofstål med lavt kulindhold. Det gør stålet blødt og duktilt, hvorfor piton'en deformerede til formen af crack'et når den blev slået ind. Det virkede fint til de irregulære revner der findes i den relativt bløde sydeupæiske kalksten(Tyskland, Italien, Østrig, etc.).
 Bløde pitons er svære at få ud igen, så mange blev efterladt og blev siden til faste ankrepunkter.
 Pitons blev især brugt af tyske alpenister og gjorde det muligt at klatre aid, ved brug pendulsving og stiger til at passere passager uden gode greb.
 
 I Yosemity, hvor klippen er hård granit, virker bløde pitons ikke godt. De var ikke holdbare nok til at blive sat og fjernet mange gange, og det var mod etikken at lade pitons blive siddende.
-Yvon Chouinard, der bl.a. også forbedrede isøksen, begyndte at lave hærdede pitons og sælge dem i Yosemity i 1957. Omkring 1970 bemærker Chouinard at brugen at Pitons giver skade på crags'ne og udvikler Hexantrics(Hexe). Det på trods af at 70% af indkomsten kom fra salg af pitons.
+Amerikanske John Salathé var den første til at lave pitons af hærdet chromstål(samme ståltype blev benyttet til Ford akser).
+Senere, i 1957, begyndte Yvon Chouinard også at fremstille hærdede pitons og sælge dem i Yosemity. Omkring 1970 bemærker Chouinard at brugen at Pitons giver skade på crags'ne og udvikler Hexantrics(Hexe). Det på trods af at 70% af indkomsten i hans udstyrsfirma kom fra salg af pitons.
+
+Pitons findes i en række udformninger, heriblandt
++ Knivsblad
+  Tynde lige pitons, til brug i tynde, dybe sprækker
++ Lost arrow
+  Flade, tilspidsede pitons der bruges i små- til mellemstore crags. Det oprindelige design fra Salathé og navngivet efter en klippeformation i Yosemity.
++ Vinkel
+  En piton lavet af en stålplade bøjet i form af et "U", "V" eller "Z". Kan bruges ved større crags, hvor stålet deformerer elastisk når piton'en bankes ind.
 
 Pitons bliver islået med en klippehammer.
 
 ** flytbare sikringer
 *** Hex
-Hexe er sekskantede aluminiumsklodser der bruges som en klemsten. Introduktionen af Hexe var med til at revolutionere friklatringen. Chouinard fik patent på Hexe i 1976 og de blev produceret af hans firma Chouinard Equipment Ltd. indtil 1989, hvor firmaet gik konkurs og resterne opkøbt af tidligere medarbejdere og genetableret under navnet Black Diamond.
+Hexe er sekskantede aluminiumsklodser der bruges som en klemsten. Introduktionen af Hexe var med til at revolutionere friklatringen. Amerikanske Tom Frost viste Chouinard et design i 1971, der fik patent på Hexe i 1976 hvorefter de blev produceret af hans firma Chouinard Equipment Ltd. indtil 1989, hvor firmaet gik konkurs og resterne opkøbt af tidligere medarbejdere og genetableret under navnet Black Diamond.
 
-Den største hex vist her er hjemmelavet. Det er et stykke udboret hexagonalt(6-kantet) aluminiumsprofil.
+Chouinards Hexentric var revolutionerende da siderne var usymmetriske, hvilket gjorde dem langt mere alsidige end en normal sekskant, og gav brugeren mindst 4 forskellige mulige placeringer af forskellig størrelse(en normal haxagon/sekskant har kun 3 placeringer).
+
+Selvom hexe er blevet fortrængt af friends ved traditionel klatring på eget udstyr, foretrækker nogle alpinister stadig hexe ved store størrelser da de vejer mindre og er billigere.
+I dag er Wild Countrys Rockcentric de mest populære hexe, hvor designet fra 70'erne er opdateret med en buet side der gør det nemmere at placere dem i irregulære cracks og større camming rækkevidde..
+
+Den største hex vist her er hjemmelavet. Det er et stykke udboret hexagonalt aluminiumsprofil.
 
 *** Kiler (eng: nuts)
 Brittiske klatrere var de første til at bruge kiler i 1950'erne. Inspireret af fastklemte sten, der kan bruges som sikring ved at sætte en slynge rundt om den, begyndte de at bruge store møtrikker fundet ved jernbanen som kunstige klemsten. Den første kommercielle kile kom i 1961, lavet af en smed i Sheffield.[fn:3]
@@ -105,24 +119,38 @@ Det markerede starten på friklatring i Yosemity og indledte et årti med mange 
 #+attr_org: :width 100
 [[file:img/nuts_natgeo_1974.png]]
 
+*** Cams
+
+U-stammer eller enkelt stamme.
+
 ** Bremser
-*** figure 8 og stitch plade
-Stitch-pladen, en forløber for den moderne ATC, blev brugt ved sikring med de ny-fremkomne kernmantle reb. Reb af manila er for stive til brug ved stitch-pladen.
-Tidligere var sikringsteknikken at køre rebet enten om hoften eller skulderen og så bruge den friktion der skabes mellem reb og tøj(eller hud) til at arrestere faldet.
+*** figure 8 og sticht plade
+Stitch-pladen, en forløber for den moderne ATC, brugt ved sikring med de ny-fremkomne kernmantle reb. Reb af manila er for stive til brug ved sticht-pladen. Sticht blev introduceret omkring 1970.
+Tidligere var sikringsteknikken at køre rebet enten om hoften eller skulderen og så bruge den friktion der skabes mellem reb og tøj(eller hud) til at stoppe faldet[fn:8].
 
 Fjederen skal forhindre at pladen presses helt ned mod karabinen og dermed jammer rebet og snoren forhindre at pladen vandrer op af rebet.
 Ved lange absails bliver stitch'en meget varm og i stedet benyttedes et stort stykke alumium i form af et 8-tal. Den øgede masse gør det muligt at dissipere varmen bedre.
 
+*** grigri
 I 1991 lancerede det franske firma Petzl deres Grigri, den første assisterende bremse. Den blev afløst af Grigri2 i 2011 og er i dag den mest populære bremse. En grigri bruges i dag også til selvsikring(eng: lead rope solo) og klatring på reb.
 Navnet grigri kommer af det afrikanske ord Gris-gris, en Voodoo amulet brugt i vestafrika. En Gris-gris skærmer sin bærer fra ondskab og bringer lykke.[fn:6]
+
+#+name: rebsolo_banana
+#+caption: rebsolo ved brug af Grigri på BaNanna Park
+#+attr_org: :width 100
+[[file:img/rebsolo_banana.jpg]]
 
 
 ** Videoer
 I 1994 var Lynn Hill var den første til at friklatre El Capitans's The Nose. En bedrift flere klatrer tidligere havde dømt umulig. Se en video af [[https://youtu.be/yS63AdRSnl8][Lynn Hill øve sig på nogle af sekvenserne]]
 
+[[https://senderfilms.com/productions/details/809/Valley-Uprising][Valley Uprising]] viser udviklingen af friklatringen i Yosemity gennem tre generationer, startende med Royal Robbins 5-dages bestigning af "Direct NW" ruten på Half Dome.
 
 
 * footnotes
+
+[fn:8]
+http://www.supertopo.com/climbers-forum/1994101/The-Origin-and-History-of-Belay-Devices
 
 [fn:7]
 [[file:litteratur/harness_development.pdf][Tony Howard, The origins of the Climbing Sit Harness]]
