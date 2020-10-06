@@ -4,17 +4,27 @@
 * klatreudstyr
 ** karabiner
 Stålkarabiner blev først brugt til klatring omkring 1910, efter den tyske alpinist Otto Herzog havde set kavalarister benytte pæreformede karabiner til fastgørelse af skydevåben(også kalder karabin) til patrolbæltet.
-Ordet karabin er forkortet fra det tyske ord karabinerhaken(da: fjerderkrog)
-De første wire-gate karabiner blev produceret af Black Diamond i 1991. Udover lavere vægt, vil den mindre masse af wire-gaten også forhindre at lukkeren åbner momentant hvis bagsiden af karabinen slynges mod klippen. På internettet er der anekdotisk beskrivelse af at inertien af faste lukkere kan åbne karabinen momentant.
+Kavalariet har brugt karabiner mindst siden starten af 1800-tallet.
+Ordet karabin er forkortet fra det tyske ord karabinerhaken(da: fjerderkrog).
+Omkring 1960 begyndte producenterne også at lave karabiner af aluminium i stedet for blot stål.
+De første wire-gate karabiner blev produceret af Black Diamond i 1991. Udover lavere vægt, vil den mindre masse af wire-gaten også forhindre at lukkeren momentant åbnes, hvis bagsiden af karabinen slynges mod klippen. På internettet er der anekdotisk beskrivelse af at inertien af faste lukkere kan åbne karabinen momentant.
 
+#+name: bonaiti_karabin
+#+caption: Italiensk Bonaitikarabin af aluminium. Omkring 1970.
+#+ATTR_ORG: :width 100
+[[file:img/bonaiti_karabin.jpg]]
 ** reb
 De første reb brugt til klatring, var snoede reb af Manila fibre; reb der kom fra maritimt brug.
 Reb af naturlige fibre kan bruges til travers- og toprebsklatring, men er dårlige til at bremse førstemandsstyrt. Det skyldes den høje stivhed af fibrene, der giver store dynamiske kræfter med risiko for at rebet springes. Det er estimeret at faldfaktorer på 0.5 og 0.75 for hhv. hampe- og manilareb er nok til at springe rebet[fn:1].
 Deraf kommer det gamle maxim
 /the leader must not fall/.
 
+Fiberreb blev afløst af stive snoede reb af nylon, produceret af britiske Viking. Snoede reb kaldes 'Hawser laid'.
 I dag bruges kern-mantel reb af nylon, dvs. reb med en kerne af parallelt snoede fibre omgivet af en vævet beskyttende kappe. De første reb af denne type kom frem i 1953, produceret af tyske Edelrid. I 1964 kom Edelrid og Mammut med det første rigtige elastiske reb med en elasticitet på 10%.
+En vigtig egenskab ved klatrereb er deres evne til at absorbere energi, hvilket nylon er uovertruffent til.
 Bemærk i øvrigt at mærkningen af klatrereb i dag ikke angiver brudstyrke, men hvor stor en kraft der overføres til klatren ved et faktor 1.739 fald(4 meters fald på 2.3m reb, for 80 kg). Dette er til forskel fra al anden klatreudstyr, hvor det brudstyrken der angives.
+
+Den nyeste type reb kaldes Unicore, hvor kappe og kerne limes sammen. Det forhindre angiveligt at kappen glider i forhold til kernen, hvilket kan ske for kernmantle reb hvis det fx. glider over en skarp kant og kappen beskadiges.
 
 #+name: hillary_mt_cook
 #+caption: Edmond Hillary og Harry Ayres på toppen af New Zealands højeste bjerg Mt. Cook (3724 m), 1947. Med manilareb bundet om livet.
@@ -40,6 +50,20 @@ Efter flere dage får et redningshold firet et sammenbundet reb ned til ham, men
 I dag er der teknikker til at binde improviserede seler, enten af et stykke reb eller slynge. En kendt teknik er Swiss Seat(schweizisk sæde) der kan bruges ved absail eller selv-evakuering.
 Lær at binde den ved lejlighed.
 
+#+name: climber 1969
+#+caption: En klatre med stive støvler, reb om livet og pitonhammer på vej op, 1969.
+#+attr_org: :width 100
+[[file:img/climber_1969.jpg]]
+
+** Hjelm
+Joe Brown hjelm i fiberglas med foring af skum. Joe Brown prodecurede denne hjelm sammen med Mo Anthoine. Deres måde at køre forretningen på var:
+'to run the business but not be run by it' og 'climbing first, money second.'[fn:10],
+
+#+name: joe_brown_helmet_1969
+#+caption: Joe Brown hjelm. Reklame 1969.
+#+ATTR_ORG: :width 100
+[[file:img/joe_brown_helmet_1969.jpg]]
+
 ** Sko og støvler
 De første støvler til alpint brug var læderstøvler med lædersål. For at forbedre grebet på hårdtpresset sne og is, begyndte alpenister at udstyre dem med en metalsål med udstikkende søm. Disse "klatrejern" var dog ikke specielt sikre at bruge.
 I stedet fremkom den schweiziske juveler Félix-Valentin Genecand, der også var en dygtig alpenist, i starten af det 20-århundrede med et nyt design af søm med en kant, der blev banket direkte på kanten af sålen. Dette design holdt i mange år og blev brugt af "step cutters", der med en isøkse huggede steps i isen.
@@ -47,13 +71,19 @@ Vibram gummisålen til støvler blev udviklet af Vitale Bramani i 1937, der best
 
 Først i 60'erne kom klatresko med friktionsgummi.
 
-
 ** Steigeisen
-De første steigeisen til alpint brug blev designet af britten Oscar Eckenstein omkring 1908. Ved hjælp af den italienske smed Henry Grivel fra Mont Banc området, blev modellen med ti spidser og uden frontspidser kommercielt tilgængelig i 1910(frontspidser kom først i 1929). Bemærk at der ikke er en tværgående afstiver i front og bag, hvilket kan medføre dårlig stabilitet hvis kun een af forreste pigge bruges. Disse steigeisen var kun gode på sneis, ikke stive nok til lodret solid is(fx. vandfaldsis)
+De første steigeisen til alpint brug blev designet af britten Oscar Eckenstein omkring 1908.[fn:13] Ved hjælp af den italienske smed Henry Grivel fra Mont Banc området, blev modellen med ti spidser og uden frontspidser kommercielt tilgængelig i 1910(frontspidser kom først i 1929). Bemærk at der ikke er en tværgående afstiver i front og bag, hvilket kan medføre dårlig stabilitet hvis kun een af forreste pigge bruges. Disse steigeisen var kun gode på sneis, ikke stive nok til lodret solid is(fx. vandfaldsis). Desuden var de smedet i en størrelse; det var ikke muligt at ændre længden på dem. De første justerbare steigeisen kom i 1961 lavet, i samarbejde mellem Salewe og tyskeren Herman Huber, da han ville have et steigeisen der passede både til ski- og bjergstøvler.
 
-Efter 2. verdenskrig kom der gang i udviklingen igen og Yvon Chouinard konstruerede en helstiv steigeisen, der gjorde det muligt at klatre is "front pointing", dvs. banke de fremadpegende spidser ind i den hårde is.
+Efter 2. verdenskrig kom der gang i udviklingen igen og Yvon Chouinard konstruerede en helstiv steigeisen i 1967, der gjorde det muligt at klatre is "front pointing", dvs. banke de fremadpegende spidser ind i den hårde is.
+Det afløste den gamle teknik hvor forreste mand var en step-cutter(da: trappehugger) med helstive sømbeslåede støvler.
 
-I dag fås steigeisen som monopoints og indbygget i støvler, kendt som "Fruit Boots", hvilket sikrer stivhed og minimal vægt.
+I dag fås steigeisen som monopoints og indbygget i støvler, kendt som "Fruit Boots", hvilket sikrer stivhed og minimal vægt. For at forhindre sne i at sætte sig fast under steigeisen, kom Grivel i 2003 med en plastikplade der monteres under steigeisen, kaldet en anti-balling plade.
+
+#+name: fig: grivel 12point steigeisen
+#+caption: Grivel 12 takket steigeisen
+#+ATTR_ORG: :width 100
+[[file:img/grivel_12point_steigeisen.jpg]]
+
 
 ** isøkse
 Før midten af det 19 århundrede var en isøkse blot en lang(mere end een meter, gerne 1.20-1.40m) stav med en jernspids, kaldet en "alpenstock".
@@ -62,8 +92,11 @@ Det kendte malerie "En Bjergbestigerste" af den danske maler J.F. Willumsen fra 
 Omkring 1840 blev spidsen udskiftet med hakke og adze(det flade stykke), men stadig med langt skaft.
 Det ændrede sig omkring 1900, hvor Oscar Eckenstein(opfinderende af den moderne steigeisen) forkortede skaftet til ca. 85 cm.
 
-I 1966 introducerede amerikaneren Yvon Chouinard(milliardær, grundlægger af Patagonia) en 55cm isøkse med buet hakke. Tanken var, at den buede form skulle matche øksens cirkelbevægelse og dermed sidde bedre fast i isen.
+I 1966 fik amerikaneren Yvon Chouinard(milliardær, grundlægger af Patagonia) ideen til en 55cm isøkse med buet hakke. Tanken var, at den buede form skulle matche øksens cirkelbevægelse og dermed sidde bedre fast i isen. Den blev introduceret i 1970 som Chouinard Frost Piolet isøkse.
 
+Fra 70'erne og frem skete der en stor udvikling af isøkser. Fra træskæfte til komposit, fra buet allround hakke til teknisk 'reversed drooped', buet- til teknisk krumpt skæfte og udskiftbar hakke. På engelsk dukker udtrykket 'ice tool' op i 80'erne til at beskrive de mere tekniske økser beregnet til lodret is, der til gengæld ikke er gode til at stoppe et fald ned af en isskråning eller som støtte ved vandring i svært tærren.
+
+Dry-tooling, hvor en rute uden is klatres ved brug af isøkser, er også blevet mere populært. Det er muligt at prøve i Sundholm, DBKKs gamle klatrehal der stadig er i brug.
 
 Som curiosum skal det nævnes at Leon Trotsky, russisk revolutionær og politiker, blev myrdet i 1940 ved brug af en isøkse efter ordre fra Joseph Stalin. Adzen af isøksen blev banket ca. 7 cm ind i kraniet på Trotsky af en sovjetisk agent, mens han opholdt sig i eksil i Mexico City. Trotsky døde dagen efter af blodtab og chock.
 
@@ -72,17 +105,103 @@ Som curiosum skal det nævnes at Leon Trotsky, russisk revolutionær og politike
 #+ATTR_ORG: :width 100
 [[file:img/jf_willumsen_en_bjergbestigerste_1912.jpg]]
 
+# #+name: fig: chouinard_ice_axe
+# #+caption: Chouinard isøkse med buet hakke. Denne udgave er nok fra 1980'erne.
+# #+ATTR_ORG: :width 100
+# [[file:img/chouinard_ice_axe.JPG]]
+
+#+name: leon_trotsky_1924
 #+caption: Leon Trotsky, 1924
 #+attr_org: :width 100
 [[file:img/leon_trotsky_1924.jpg]]
 
-** Pitons
-De første pitons(da: slagbolte) der blev brugt i europa var af kulstofstål med lavt kulindhold. Det gør stålet blødt og duktilt, hvorfor piton'en deformerede til formen af crack'et når den blev slået ind. Det virkede fint til de irregulære revner der findes i den relativt bløde sydeupæiske kalksten(Tyskland, Italien, Østrig, etc.).
+*** Peter Aschenbrenner
+Peter Aschenbrenner var en østrigsk bjergguide (1902-1998), der var noget kontroversielt involveret i tidlige ekspeditioner for at bestige Nanga Parbat i Himalaya. Den tysk ledede - og Hitler støttede - ekspeditionen i 1934 endte i katastrofe, da adskillige sherpaer omkom.
+Det resulterede i at Aschenbrenner og ekspeditionsmedlem Erwin Schneider blev sat for en æresdomstol, anklaget for at efterlade sherpaer. De blev udelukket fra yderligere ekspeditioner til Nanga Parbat. Dette blev senere ophævet og i 1953 overtog han rollen som ekspeditionsleder fra Karl Harrligkoffer.
+På denne tur gik Herman Buhl alene til toppen, for at sikre sig anderkendelse for den første bestigning. Så selvom ekspeditionen teknisk var en succes, var der efterfølgende megen bitterhed mellem nogle af medlemmerne.
+
+Aschenbrenner efterlod sig også en meget mindre kontroversiel arv i form af en isøkse, han udviklede i de tidlige 1930'ere og fik firmaet Stubai til at fremstille.
+Dette design var næsten universelt at finde i bjergene fra midten af ​​1930'erne og frem til 1960'erne. Her begyndte metallegeringer at vinde frem, hvilket afløste skæftet af træ og muliggjode nye designs.
+
+#+name: aschenbrenner_schneider_nanga_parbat_expedition_1934
+#+caption: Peter Aschenbrenner og Erwin Schneider forud for Nanga Parbat ekspeditionen i 1934
+#+attr_org: :width 100
+[[file:img/aschenbrenner_schneider_nanga_parbat_expedition_1934.jpg]]
+
+#+name: aschenbrenner_ice_axe
+#+caption: Isøkse efter Peter Aschenbrenner's design
+#+attr_org: :width 100
+[[file:img/aschenbrenner_ice_axe.jpg]]
+
+#+name: climbing_gear_advert_robert_lawrie_1936
+#+caption: Reklame for klatreudstyr i 1936, hvor Aschenbrenner's isøkse fremgår.
+#+attr_org: :width 100
+[[file:img/climbing_gear_advert_robert_lawrie_1936.jpg]]
+*** Chouinard/Frost Piolet isøkse
+Isøkse med det 'nye' design: kortere skaft(55cm) og buet hakke, der var med til at revolutionere isklatring. Designet af amerikanske Yvon Chouinard og Tom Frost, produceret i Italien af Camp og introduceret i 1970.
+Skaftet kunne fås udført i forskellige træsorter: lamineret bambus, Ask, Hickory og Rexilon. Rexilon er her et 18-lags laminat af beech(faggio på italiensk.)
+De fremhævede træskafters egenskaber som:
+isolering, vibrationsdæmpende, og greb der forbedres ved brug. Brugen af træskæfter blev udfaset omkring 1979 til fordel for kompositmaterialer[fn:11].
+
+Denne økse, med skæfte af Rexilon, kun takker yders på hakken og monteret med to nitter, er 1.generation fra 1970-1975. Tom Frost forlod firmaet i 75, og da hans navn er indgravet ved vi den er produceret før 1975. 2. generation havde takker både yderst og inderst på hakken og monteret med tre nitter. Fremstillet i perioden 1975-1979.
+
+#+name: chouinard_ice_axe
+#+caption: Forskellige Chouinard Frost Piolet isøkser. Skæftet er(fra venstre): Hickory, Ask, Rexilon, lamineret bambus. Bemærk 2.gen yderst th, med to gange takker og uden Frost ingraveringen.
+#+attr_org: :width 100
+[[file:img/chouinard-frost-ice-axe-hickory-ash-rexilon-bamboo.jpg]]
+
+*** Stubai Hidden Peak isøkse
+Hidden Peak er et andet navn for Gasherbrum i Himalaya og er et af flere navne fra Himalaya brugt af østriske Stubai, til navngivning af isudstyr.
+Denne økse er fra 1970'erne, en tid hvor der var hundredevis af forskellige økser og hamre, der alle kappedes om et sted på markedet.
+Skæftet er af tubular fiberglas. Fordelene ved et kompositskaft over træskaft er:
+lettere, ikke vandabsorberende, højere styrke og i forhold til metal leder det kulde dårligere.
+Selvom Stubai's isudstyr blev kendt for deres styrke og holdbarhed, var de aldrig rigtig stærke på den tekniske side, hvorfor denne model også kun var populær i en kortere periode.
+
+#+name: stubai_hidden_peak_iceaxe
+#+caption: Stubai isøkse med limegrøn fiberglasskaft, metalhoved med takket hakke og metalhylse(kappen der omslutter enden af skaftet).
+#+attr_org: :width 100
+[[file:img/stubai_hidden_peak_iceaxe.jpg]]
+
+** isskruer
+De første isskruer minder om en poptrækker og blev introduceret i starten af 1960'erne, hvor de erstattede is-pitons. De var ikke så stærke, men hvis de blev lavet tykkere blev de sværere at placere og ødelagde isen så holdekraften blev mindre.
+Korkskruerne blev afløst af tubulære isskruer omkring 1965.
+
+#+name: ice_pitons_catalogue_1971
+#+caption: Sikringsudstyr til is, skruer og pitons. 1971
+#+ATTR_ORG: :width 100
+[[file:img/ice_pitons_catalogue_1971.jpg]]
+
+
+#+name: ice_climbing_gear_1968
+#+caption: Ustyr til isklatring. Encyclopaedic of Mountaineering 1968.
+#+ATTR_ORG: :width 100
+[[file:img/ice_climbing_gear_1968.jpg]]
+
+** Artificiel klatring
+*** Fifi krog og Etrier(stige)
+Da aid-klaring blev mere populært i 1950'erne, vandt fifikroge også frem som en hurtig måde til at forbinde en stige til øjet i en piton. Krog og stige bringes med videre, ved at hive i snoren forbundet til øjet i toppen af krogen.
+
+Etier (da: stige) er en lille stige, oftest lavet af snor, hvor aluminiumstrinene bliver holdt fast af knuder.
+Alternativt kan stigen bindes af et langt stykke slynge der lægges dobbelt, hvor trinene skiftesvis bindes i hver side med et overhåndsknob.
+
+
+Etrier betyder en stige eller stigbøjle på fransk; et af de mange ord, som britiske bjergbestigere lånte fra udenlandske venner. Etrier blev brugt til kunstig eller hjælp til klatring, hvor du bankede en piton i en revne, klemte etrier ind i den og klatrede op. Hjælpeklatring var forbeholdt stigninger, der var for svære til at blive klatret gratis, men med moderne klatreteknikker og bedre udstyr er mange af disse stigninger klatret gratis, idet de overfører hjælpeklatring og tilhørende udstyr til historiebøgerne - næsten!
+
+#+name: etrier_fifi
+#+caption: Etrier og fifikroge
+#+attr_org: :width 100
+[[file:img/etrier_fifi.jpg]]
+*** Pitons
+Ordet Piton(da: slagbolt) kommer fra frank og betyder søm. I dag forstås det i klatresammenhæng som en en metalspids der kan drives ind i en revne i klippen. Pitons kommer i alle former og størrelser og har eksisteret længe.
+Lokale smede lavede de første udgaver til bjergbestigning i slutningen af ​​1800-tallet. Da karabiner endnu ikke var taget i brug, blev rebet hængt over dem, trådet gennem en fastgjort rebsløjfe eller senere en metalring.
+En smed ved navn Hans Fiechtl fra Tyrol-området i Østrig (han kunne også have været en bjergguide) var en af ​​de første til at producere en piton med et integreret øje omkring 1930, samstemmende med ankomsten af ​​karabiner der blev udviklet omkring samme tid.
+
+De første pitons der blev brugt i europa var af kulstofstål med lavt kulindhold. Det gør stålet blødt og duktilt, hvorfor piton'en deformerede til formen af crack'et når den blev slået ind. Det virkede fint til de irregulære revner der findes i den relativt bløde sydeupæiske kalksten(Tyskland, Italien, Østrig, etc.).
 Bløde pitons er svære at få ud igen, så mange blev efterladt og blev siden til faste ankrepunkter.
 Pitons blev især brugt af tyske alpenister og gjorde det muligt at klatre aid, ved brug pendulsving og stiger til at passere passager uden gode greb.
 
 I Yosemity, hvor klippen er hård granit, virker bløde pitons ikke godt. De var ikke holdbare nok til at blive sat og fjernet mange gange, og det var mod etikken at lade pitons blive siddende.
-Amerikanske John Salathé var den første til at lave pitons af hærdet chromstål(samme ståltype blev benyttet til Ford akser).
+Amerikanske John Salathé var den første til at lave pitons af hærdet chromstål(chrom-molybdenum, samme ståltype blev benyttet til Ford akser).
 Senere, i 1957, begyndte Yvon Chouinard også at fremstille hærdede pitons og sælge dem i Yosemity. Omkring 1970 bemærker Chouinard at brugen at Pitons giver skade på crags'ne og udvikler Hexantrics(Hexe). Det på trods af at 70% af indkomsten i hans udstyrsfirma kom fra salg af pitons.
 
 Pitons findes i en række udformninger, heriblandt
@@ -94,10 +213,33 @@ Pitons findes i en række udformninger, heriblandt
   En piton lavet af en stålplade bøjet i form af et "U", "V" eller "Z". Kan bruges ved større crags, hvor stålet deformerer elastisk når piton'en bankes ind.
 
 Pitons bliver islået med en klippehammer.
+#+name: piton hammer
+#+caption: Piton hammer med bælte og holder.
+#+attr_org: :width 100
+[[file:img/piton_hammer.jpg]]
+
+De meget lange pitons er til is. Når de skulle tages ud, var det nødvendigt at banke et stort krater i isen omkring piton'en.
+De var den første form for sikkerhed og kommercielt tilgængelig fra slutningen af 1950'erne.
+
+Pitons blev bl.a. fabrikeret af
+- ASMU, fork. af August Schuster fra Munchen. Grundlagt i 1914 og blev en førende leverandører af udstyr på det tidspunkt. Bla. skibindinger, telt, tøj, steigeisen, isøkser, pitons og karabiner
+  ASMU navnet forsvandt i 1960'erne, men brandet lever videre under navnet Sporthaus Schuster.
+
+- Ricardo Cassin, Italien
+- Charlet Moser, Chamonix, Frankrig.
+- Salewa, Tyskland
+  Salewa startede som producent af lædervarer. Navnet kommer af 'Sattler und leder Waren' (da: Sadler og lædervarer)
+
+#+name: piton_design_1967
+#+caption: Design af pitons, 1967
+#+attr_org: :width 100
+[[file:img/piton_design_1967.jpg]]
 
 ** flytbare sikringer
 *** Hex
-Hexe er sekskantede aluminiumsklodser der bruges som en klemsten. Introduktionen af Hexe var med til at revolutionere friklatringen. Amerikanske Tom Frost viste Chouinard et design i 1971, der fik patent på Hexe i 1976 hvorefter de blev produceret af hans firma Chouinard Equipment Ltd. indtil 1989, hvor firmaet gik konkurs og resterne opkøbt af tidligere medarbejdere og genetableret under navnet Black Diamond.
+Hexe er sekskantede aluminiumsklodser der bruges som en klemsten. Introduktionen af Hexe var med til at revolutionere friklatringen.
+Amerikanske Tom Frost viste Chouinard et design af hexe i 1971, kaldet Hexcentric der er en offset udgave af en hexagon.
+Det gjorde hexagon-designet overflødigt og Chouinard fik patent på Hexcentric i 1976, hvorefter de blev produceret af hans firma Chouinard Equipment Ltd. indtil 1989, hvor firmaet gik konkurs og resterne opkøbt af tidligere medarbejdere og genetableret under navnet Black Diamond.
 
 Chouinards Hexentric var revolutionerende da siderne var usymmetriske, hvilket gjorde dem langt mere alsidige end en normal sekskant, og gav brugeren mindst 4 forskellige mulige placeringer af forskellig størrelse(en normal haxagon/sekskant har kun 3 placeringer).
 
@@ -106,8 +248,20 @@ I dag er Wild Countrys Rockcentric de mest populære hexe, hvor designet fra 70'
 
 Den største hex vist her er hjemmelavet. Det er et stykke udboret hexagonalt aluminiumsprofil.
 
+De små hexe lavet af messing er fra starten af 1970'erne. Messing er dog blødt og dette design var ikke længe på markedet.
+#+name: clog messing hex
+#+caption: Messing hexe fra Clog.
+#+attr_org: :width 100
+[[file:img/clog_brass_hex_wire.JPG]]
+
+
+#+name: troll hexagon
+#+caption: Troll hexagon(ie. ikke offset) placeret under en møtrik.
+#+attr_org: :width 100
+[[file:img/troll_hexagon_insitu.JPG]]
+
 *** Kiler (eng: nuts)
-Brittiske klatrere var de første til at bruge kiler i 1950'erne. Inspireret af fastklemte sten, der kan bruges som sikring ved at sætte en slynge rundt om den, begyndte de at bruge store møtrikker fundet ved jernbanen som kunstige klemsten. Den første kommercielle kile kom i 1961, lavet af en smed i Sheffield.[fn:3]
+Brittiske klatrere var de første til at bruge kiler i 1950'erne. Inspireret af fastklemte sten, der kan bruges som sikring ved at sætte en slynge rundt om den, begyndte de at bruge store møtrikker fundet ved jernbanen som kunstige klemsten. Den første kommercielle kile(En Acorn) kom i 1961, lavet af en smed i Sheffield.[fn:3]
 
 I 1966 besøgte yosemity klatreren Royal Robbins England, hvor han blev introduceret til kiler og bragte dem med tilbage. Men først i begyndelsen af 1970'erne vinder kilerne indpas, efter at ruten "Regular Northwest Face" på Half Dome blev friklatret uden brug af pitons 1973(grad 5.11d / 7a). Klatrerne skrev derefter artiklen "Climbing Half-Dome the Hard Way (hammerless)" i National Geographic i 1974.[fn:4]
 
@@ -119,17 +273,76 @@ Det markerede starten på friklatring i Yosemity og indledte et årti med mange 
 #+attr_org: :width 100
 [[file:img/nuts_natgeo_1974.png]]
 
+#+name: nuts_insitu
+#+caption: Tegning af møtrikker(eng: nuts) som klemsten
+#+attr_org: :width 100
+[[file:img/nut_insitu_sketch.jpg]]
+
+#+name: natural chockstone
+#+caption: Brug af småsten som kundstige klemsten.
+#+attr_org: :width 100
+[[file:img/chockstone_nuts_sketch.jpg]]
+
+*** Acorns
+Den første kommercielle kile fra 1961. Lavet af smeden John Brailsford fra Sheffield[fn:9].
+
+#+name: acorn_sketch
+#+caption: Sketch af Acorn, den første kommercielle kiletype fra 1961
+#+attr_org: :width 100
+[[file:img/acorn_sketch.jpg]]
+
 *** Cams
+det var den amerikanske klatrer, Ray Jardine, der perfektionerede ideen og opfandt / skabte 'venen' i 1978. Historien fortæller, at mens han og hans klatrepartner eksperimenterede med prototype-camming-enheder i Amerikas Yosemite Valley, dukkede andre klatrere op til en chat . Da Jardine ikke ville give spillet væk, når de sorterede deres udstyr, spurgte han sin kammerat, om han havde taget sine 'venner' sammen med ham - navnet sidder fast.
+Selvom det oprindeligt blev patenteret i Amerika, var det det britiske selskab, Wild Country, der begyndte at producere 'Friends' tilbage i 1977/78, oprindeligt med den solide stængelversion og senere med typen Flexible og Helium - vi får at vide, at der er en ny på vej i 2016 ..
+Selvom 'Venner' er blevet det generiske udtryk for alle camming-enheder, er der masser af andre versioner rundt; Black Diamond Camalot er en af de mere populære.
+
+https://www.rei.com/learn/expert-advice/active-rock-climbing-protection.html
 
 U-stammer eller enkelt stamme.
 
+#+name: friend testing
+#+caption: Opfinderen af Friends, Jay Jardine, tester dem. Forsiden af Mountain Magazine, 1977.
+#+attr_org: :width 100
+[[file:img/jay_jardine_friend_testing_1977.jpg]]
+
+*** Producenter
+- Peck
+  Britiske Trevor Peck producerede sine første Crackers i starten af 1960'erne.
+- Troll
+  Britiske Troll producerede Wedges med snor eller slynge omkring 1965.
+- Campbell
+  Gaylord. K. Campbell producerede kiler kaldet Wedgefast.
+- M.O.A.C.
+  Oprettet af Sheffield smeden, John Brailsford, M.O.A.C. var en af de allerførste specialdesignede møtrikker til bjergbestigning, (den første er Acorn - også opfundet af Brailsford.) Chockstones og bearbejdede nødder var normen indtil det tidspunkt, da MOAC's første dukkede op i 1962. Den første batch blev støbt i Manchester og afsluttet af Peter Gentil. På det tidspunkt ejede en fyr ved navn Ellis Brigham en kæde af udendørs butikker i Storbritannien, som havde en importafdeling kaldet Mountain Activities, og de to første bogstaver i hvert ord blev brugt til at skabe navnet på denne nye møtrik - MOAC - som Brigham havde bakkede den første produktionskørsel som et økonomisk gamble
+- Clog
+  Denny Moorehouse og Shirley Smith oprettede Clogwyn Climbing Gear - CLOG - i den gamle biograf i Deiniolen, Nord Wales, i 1966. Disse var blomsterkraftens dage og afslappede livsstil med en stigning nu, arbejde senere, etik, så produktionsniveauer blev talt i dusinvis snarere end tusinder.
+
+#+name: clog_troll_chockstones_1971
+#+caption: Katalog over klemsten, 1971
+#+attr_org: :width 100
+[[file:img/clog_troll_chockstones_1971.jpg]]
+
+#+name: troll_wedge_insitu
+#+caption: Tegning af Troll wedge in situ, omkring 1965.
+#+attr_org: :width 100
+[[file:img/troll_wedge_insitu_sketch.jpg]]
 ** Bremser
 *** figure 8 og sticht plade
-Stitch-pladen, en forløber for den moderne ATC, brugt ved sikring med de ny-fremkomne kernmantle reb. Reb af manila er for stive til brug ved sticht-pladen. Sticht blev introduceret omkring 1970.
-Tidligere var sikringsteknikken at køre rebet enten om hoften eller skulderen og så bruge den friktion der skabes mellem reb og tøj(eller hud) til at stoppe faldet[fn:8].
+Stitch-pladen(da: kaldet grisetryne), en forløber for den moderne ATC, brugt ved sikring med de ny-fremkomne kernmantle reb. Reb af manila er for stive til brug ved sticht-pladen. Sticht blev introduceret sidst i 60'erne af vesttyske Salewa, designet af den tyske klatrer Franz Sticht. Fjederen skal forhindre at bremsen jammes mod karabinen ved sikring.
+Tidligere var sikringsteknikken at føre rebet enten om hoften eller skulderen og så bruge den friktion der skabes mellem reb og tøj(eller hud) til at stoppe faldet[fn:8].
 
 Fjederen skal forhindre at pladen presses helt ned mod karabinen og dermed jammer rebet og snoren forhindre at pladen vandrer op af rebet.
 Ved lange absails bliver stitch'en meget varm og i stedet benyttedes et stort stykke alumium i form af et 8-tal. Den øgede masse gør det muligt at dissipere varmen bedre.
+
+#+name: hoftebelay_skitse
+#+caption: skitse der viser hofte- og skuldersikringsteknik
+#+attr_org: :width 100
+[[file:img/belay_waist.jpg]]
+
+#+name: hoftebelay_marine
+#+caption: Kropssikring blev overflødigt da Sticht pladen kom. Fra håndbog for klatreinstruktører i Marinen.
+#+attr_org: :width 100
+[[file:img/belay_waist_marine.jpg]]
 
 *** grigri
 I 1991 lancerede det franske firma Petzl deres Grigri, den første assisterende bremse. Den blev afløst af Grigri2 i 2011 og er i dag den mest populære bremse. En grigri bruges i dag også til selvsikring(eng: lead rope solo) og klatring på reb.
@@ -140,17 +353,62 @@ Navnet grigri kommer af det afrikanske ord Gris-gris, en Voodoo amulet brugt i v
 #+attr_org: :width 100
 [[file:img/rebsolo_banana.jpg]]
 
+** Brands
+*** Cassin
+Italiensk firma, hvis grundlægger er den italienske alpinist Ricardo Cassin.
 
+Giusto Gervasutti, Walter Bonatti, Emilio Comici og Ricardo Cassin er blot nogle få af det glitrende udvalg af italienske alpinister, der dansede over de høje bjerge i Alperne i midten af det 20'ende århundrede.
+Ligesom mange berømte bjergbestigere fra hele verden, begyndte også Cassin begyndte at producere bjergbestigningsudstyr i sin hjemby Lecco i 1947.
+De første af hans Cassin karabiner dukkede op i 1950, og selvom en franskmand ved navn Pierre Alain havde lavet karabiner i aluminiumslegering tilbage i 1939, var de fleste af 1950'ernes versioner stadig lavet af stål som de tidlige Cassin-versioner.
+
+*** Bonaiti/Kong
+Bonaiti skiftede i 1977 navn til Kong, efter at brugt navnet Bonaiti i 140+ år. Der er ingen forbindelse til den populære italienske apinist Walter Bonatti.
+*** DMM
+DMM (Denny Moorhouse Mountaineering), grundlagt i 1980 af Denny Moorhouse der også var med til at starte Clog equipment i 1966.
+*** Charlet Moser
+Producent af isøker og steigeisen.
+Franskmanden, J Charlet, begyndte at lave isøkser i Chamonix i skyggen af Mont Blanc omkring 1880. Senere fusioneret med andet firma, hvorved navnet blev Charlet Moser[fn:12].
+Opkøbt af Petzl i 2000, der overtog produktionen af isudstyr.
+*** Petzl
+Fransk producent af klatreudstyr. Grundlæggeren Fernand Petzl(f. 1912) var caver(da: huleforsker) og det var eksperimenter med vertikale sikkerhed og ascenders der førte til grundlæggelsen i 1975.
+*** Grivel
+Italiensk producent af isudstyr. Grundlagt i 1818 i den lille by Courmayeur, tæt på Mont Blanc.
+Smeden Henry Grivel lavede, på baggrund af Eckenstreins tegninger, de første steigeisen i 1910.
+*** Stubai, Østrig
+I 1897 gik en gruppe smede, fra byen Fulpmes i Stubai-regionen i Østrig, sammen og dannede et lille kooperativ til fremstilling af landbrugsredskaber og træredskaber. Det varede ikke længe, før de så et marked for bjergbestigningsudstyr.
+Stubai-firmaet er - som det blev kendt - fortsat med at producere innovative genstande af bjergbestigningsudstyr lige siden og er stadig i drift 120 år senere. Mange af Stubais innovationer er kommet fra Mountain Guides og førende alpinister, et klassisk eksempel er Stubai Aschenbrenner-isøksen, der blev skabt af Mountain Guide, Peter Aschenbrenner, produceret og markedsført af Stubai og brugt over hele verden i 1940/50 / 60'erne.
 ** Videoer
 I 1994 var Lynn Hill var den første til at friklatre El Capitans's The Nose. En bedrift flere klatrer tidligere havde dømt umulig. Se en video af [[https://youtu.be/yS63AdRSnl8][Lynn Hill øve sig på nogle af sekvenserne]]
 
 [[https://senderfilms.com/productions/details/809/Valley-Uprising][Valley Uprising]] viser udviklingen af friklatringen i Yosemity gennem tre generationer, startende med Royal Robbins 5-dages bestigning af "Direct NW" ruten på Half Dome.
 
+[[https://youtu.be/cXRTfGLwgww][Dokumentar]] der viser hvordan Grivel lavede steigeisen i 1956.
+
 
 * footnotes
 
+[fn:13]
+[[http://www.alpinist.com/doc/web12f/wfeature-eckenstein][Oscar Eckenstein's article "Über Steigeisentechnik"]]
+which appeared in the Austrian Alpine Club's (OEAV) bi-monthly newsletter on June 20, 1908.
+
+[fn:12]
+https://elpioletdemadera.blogspot.com/2012/02/quien-es-quien-j-charlet-y-g-moser.html
+
+[fn:11]
+[[http://www.smhc.co.uk/objects_item.asp?item_id=31980][Første eksemple på økse kun i stål, start 60]]. Lavet efter uheld i 59, hvor flere personer dør da træskaftet på isøksen der bruges til sikring knækker.
+[[https://americanalpineclub.org/library-blog/2018/3/27/the-ice-axe][Billeder af tidlig alpinisme, mv.]]
+https://forums.redpointuniversity.com/topic/248/chouinard-ice-axe-history-identification-1969-1989
+https://coldthistle.blogspot.com/2013/08/the-classic-piolet.html
+
+[fn:10]
+http://www.smhc.co.uk/objects_item.asp?item_id=32156
+
+[fn:9]
+http://www.smhc.co.uk/objects_item.asp?item_id=32098
+
 [fn:8]
 http://www.supertopo.com/climbers-forum/1994101/The-Origin-and-History-of-Belay-Devices
+http://www.smhc.co.uk/objects_item.asp?item_id=32609
 
 [fn:7]
 [[file:litteratur/harness_development.pdf][Tony Howard, The origins of the Climbing Sit Harness]]
@@ -174,3 +432,6 @@ https://www.climbing.com/people/the-nut-chronicles/
 [fn:2]
 http://www.paci.com.au/knots.php
 http://asiteaboutnothing.net/cr_most-useful-knots.html
+
+
+http://winterclimb.com/articles/item/61-climbing-mountaineering-dictionary
