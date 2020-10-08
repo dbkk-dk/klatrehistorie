@@ -66,10 +66,29 @@ Joe Brown hjelm i fiberglas med foring af skum. Joe Brown prodecurede denne hjel
 
 ** Sko og støvler
 De første støvler til alpint brug var læderstøvler med lædersål. For at forbedre grebet på hårdtpresset sne og is, begyndte alpenister at udstyre dem med en metalsål med udstikkende søm. Disse "klatrejern" var dog ikke specielt sikre at bruge.
-I stedet fremkom den schweiziske juveler Félix-Valentin Genecand, der også var en dygtig alpenist, i starten af det 20-århundrede med et nyt design af søm med en kant, der blev banket direkte på kanten af sålen. Dette design holdt i mange år og blev brugt af "step cutters", der med en isøkse huggede steps i isen.
-Vibram gummisålen til støvler blev udviklet af Vitale Bramani i 1937, der bestemte sig for at designe en bedre bjergstøvle efter at have mistet seks kammerater til bjergbestigning; der manglede en god støvle til mikset klippe- og isterræn.
+I stedet fremkom den schweiziske juveler Félix-Valentin Genecand, der også var en dygtig alpinist, i 1912 med et nyt design hvor 'søm med en kant' blev banket direkte på kanten af sålen. Disse søm var hærdet og sammenføjet ved lodning. Genecand blev kaldt Tricounis blandt venner(efter et ), hvorfor sømmene var kendt som Tricouni søm.[fn:17]
+Dette design holdt i mange år og blev brugt af "step cutters", der med en isøkse huggede trin i isen.
 
-Først i 60'erne kom klatresko med friktionsgummi.
+#+name: boot_nails
+#+caption: Søm til støvler, 1949 katalog.
+#+ATTR_ORG: :width 100
+[[file:img/boot_nails.jpg]]
+
+#+name: boot_with_nails
+#+caption: Sømbeslåede støvler.
+#+ATTR_ORG: :width 100
+[[file:img/boot_with_nails.jpg]]
+
+Vibram gummisålen blev udviklet af italienske Vitale Bramani i 1935, der bestemte sig for at designe en bedre bjergstøvle efter at have mistet seks kammerater ved bjergbestigning; han analyserede sig frem til, at de måske havde overlevet hvade de haft en bedre støvle til mikset klippe- og isterræn.
+Efter 2. verdenskrig åbnede den første fabrik og Vibram sålen blev brugt på støvlerne ved den første bestigning af K2(Pakistan, 8611 meter), hvilket var med til gøre sålen populær i bjergbestiger-kredse.[fn:18]
+
+Friktionssko til klippeklatring blev udviklet af den franske alpinist Pierre Allain i 30'erne. Han begyndte at boulder i Fontainebleau og fandt at sneakers var bedre end bjergstøvler, men at de manglede gummi på siderne og var upræcise pga. den runde og store form. Det blev til modellen PA sidst i 40'erne. I 50'erne køber Edmond Bourdonneau P. Allains forretning og mærker skoene med EB.
+EBs Super Gratton var den eneste reelle friktionssko mellem 60'erne-80'erne. I 1982 kommer Boreal med den første sko med det revolutionerende 'sticky rubber', der minder om den gummi der bruges i dag.[fn:19]
+
+#+name: pierre_allain_fontainebleau_1938
+#+caption: Pierre Allain i Fontainebleau, 1938
+#+ATTR_ORG: :width 100
+[[file:img/pierre_allain_fontainebleau_1938.jpg]]
 
 ** Steigeisen
 De første steigeisen til alpint brug blev designet af britten Oscar Eckenstein omkring 1908.[fn:13] Ved hjælp af den italienske smed Henry Grivel fra Mont Banc området, blev modellen med ti spidser og uden frontspidser kommercielt tilgængelig i 1910(frontspidser kom først i 1929). Bemærk at der ikke er en tværgående afstiver i front og bag, hvilket kan medføre dårlig stabilitet hvis kun een af forreste pigge bruges. Disse steigeisen var kun gode på sneis, ikke stive nok til lodret solid is(fx. vandfaldsis). Desuden var de smedet i en størrelse; det var ikke muligt at ændre længden på dem. De første justerbare steigeisen kom i 1961 lavet, i samarbejde mellem Salewe og tyskeren Herman Huber, da han ville have et steigeisen der passede både til ski- og bjergstøvler.
@@ -163,8 +182,21 @@ Selvom Stubai's isudstyr blev kendt for deres styrke og holdbarhed, var de aldri
 [[file:img/stubai_hidden_peak_iceaxe.jpg]]
 
 ** isskruer
+Først var der lange pitons til is. Når de skulle tages ud, var det nødvendigt at banke et stort krater i isen omkring piton'en. De var den første form for sikkerhed og kommercielt tilgængelig fra slutningen af 1950'erne, selvom de blev benyttet af alpinister siden 1920'erne.
+Ispitons blev i 1960'erne udviklet til Warthogs(da: vortesvin), der blev banket ind men skruet ud med hakken på isøksen, takket været et spiralformet ribben. Warthog kendes i dag bedst Skotland, hvor de kan bruges til at sikre i frossent græs.[fn:14]
+
 De første isskruer minder om en poptrækker og blev introduceret i starten af 1960'erne, hvor de erstattede is-pitons. De var ikke så stærke, men hvis de blev lavet tykkere blev de sværere at placere og ødelagde isen så holdekraften blev mindre.
-Korkskruerne blev afløst af tubulære isskruer omkring 1965.
+Korkskruerne blev afløst af de første designs af tubulære isskruer omkring 1965.
+
+
+
+
+Moderne isskruer sat i solid vandis kan holde omkring 18kN. Fangrykket ved et førstemandsstyrt ved sportsklatring er 2-4kN[fn:15]
+
+#+name: ice_screw_development_1924_2000
+#+caption: Udvikling af issikringer i perioden 1920-2000. 1,2) ispitons; 3) Marwa korkskruer; 4) isskruer 70'design; 5) rørisskruer; 6) moderne isskrue.
+#+ATTR_ORG: :width 100
+[[file:img/ice_screw_development_1924_2000.jpg]]
 
 #+name: ice_pitons_catalogue_1971
 #+caption: Sikringsudstyr til is, skruer og pitons. 1971
@@ -192,16 +224,16 @@ Etrier betyder en stige eller stigbøjle på fransk; et af de mange ord, som bri
 #+attr_org: :width 100
 [[file:img/etrier_fifi.jpg]]
 *** Pitons
-Ordet Piton(da: slagbolt) kommer fra frank og betyder søm. I dag forstås det i klatresammenhæng som en en metalspids der kan drives ind i en revne i klippen. Pitons kommer i alle former og størrelser og har eksisteret længe.
-Lokale smede lavede de første udgaver til bjergbestigning i slutningen af ​​1800-tallet. Da karabiner endnu ikke var taget i brug, blev rebet hængt over dem, trådet gennem en fastgjort rebsløjfe eller senere en metalring.
-En smed ved navn Hans Fiechtl fra Tyrol-området i Østrig (han kunne også have været en bjergguide) var en af ​​de første til at producere en piton med et integreret øje omkring 1930, samstemmende med ankomsten af ​​karabiner der blev udviklet omkring samme tid.
+Ordet Piton(da: slagbolt) kommer fra franks og kan løst oversættes som "søm". I dag forstås det i klatresammenhæng som en metalspids der drives ind i en revne i klippen. Pitons kommer i alle former og størrelser og har eksisteret længe.
+Lokale smede lavede de første udgaver til bjergbestigning i slutningen af ​​1800-tallet. Da karabiner endnu ikke var taget i brug, blev rebet enten hængt over dem eller trådet gennem en fastgjort rebsløjfe(senere en metalring).
+En smed ved navn Hans Fiechtl fra Tyrol-området i Østrig (han kunne også have været en bjergguide) var en af ​​de første til at producere en piton med et integreret øje omkring 1910, samstemmende med ankomsten af ​​karabiner der blev udviklet omkring samme tid.
 
 De første pitons der blev brugt i europa var af kulstofstål med lavt kulindhold. Det gør stålet blødt og duktilt, hvorfor piton'en deformerede til formen af crack'et når den blev slået ind. Det virkede fint til de irregulære revner der findes i den relativt bløde sydeupæiske kalksten(Tyskland, Italien, Østrig, etc.).
 Bløde pitons er svære at få ud igen, så mange blev efterladt og blev siden til faste ankrepunkter.
 Pitons blev især brugt af tyske alpenister og gjorde det muligt at klatre aid, ved brug pendulsving og stiger til at passere passager uden gode greb.
 
 I Yosemity, hvor klippen er hård granit, virker bløde pitons ikke godt. De var ikke holdbare nok til at blive sat og fjernet mange gange, og det var mod etikken at lade pitons blive siddende.
-Amerikanske John Salathé var den første til at lave pitons af hærdet chromstål(chrom-molybdenum, samme ståltype blev benyttet til Ford akser).
+I 1947 var amerikanske John Salathé den første til at lave pitons af hærdet chromstål(chrom-molybdenum, samme ståltype blev benyttet til Ford akser).
 Senere, i 1957, begyndte Yvon Chouinard også at fremstille hærdede pitons og sælge dem i Yosemity. Omkring 1970 bemærker Chouinard at brugen at Pitons giver skade på crags'ne og udvikler Hexantrics(Hexe). Det på trods af at 70% af indkomsten i hans udstyrsfirma kom fra salg af pitons.
 
 Pitons findes i en række udformninger, heriblandt
@@ -212,7 +244,8 @@ Pitons findes i en række udformninger, heriblandt
 + Vinkel
   En piton lavet af en stålplade bøjet i form af et "U", "V" eller "Z". Kan bruges ved større crags, hvor stålet deformerer elastisk når piton'en bankes ind.
 
-Pitons bliver islået med en klippehammer.
+Pitons bliver islået med en klippehammer og rykket ud med samme.[fn:16]
+
 #+name: piton hammer
 #+caption: Piton hammer med bælte og holder.
 #+attr_org: :width 100
@@ -220,15 +253,6 @@ Pitons bliver islået med en klippehammer.
 
 De meget lange pitons er til is. Når de skulle tages ud, var det nødvendigt at banke et stort krater i isen omkring piton'en.
 De var den første form for sikkerhed og kommercielt tilgængelig fra slutningen af 1950'erne.
-
-Pitons blev bl.a. fabrikeret af
-- ASMU, fork. af August Schuster fra Munchen. Grundlagt i 1914 og blev en førende leverandører af udstyr på det tidspunkt. Bla. skibindinger, telt, tøj, steigeisen, isøkser, pitons og karabiner
-  ASMU navnet forsvandt i 1960'erne, men brandet lever videre under navnet Sporthaus Schuster.
-
-- Ricardo Cassin, Italien
-- Charlet Moser, Chamonix, Frankrig.
-- Salewa, Tyskland
-  Salewa startede som producent af lædervarer. Navnet kommer af 'Sattler und leder Waren' (da: Sadler og lædervarer)
 
 #+name: piton_design_1967
 #+caption: Design af pitons, 1967
@@ -377,6 +401,17 @@ Smeden Henry Grivel lavede, på baggrund af Eckenstreins tegninger, de første s
 *** Stubai, Østrig
 I 1897 gik en gruppe smede, fra byen Fulpmes i Stubai-regionen i Østrig, sammen og dannede et lille kooperativ til fremstilling af landbrugsredskaber og træredskaber. Det varede ikke længe, før de så et marked for bjergbestigningsudstyr.
 Stubai-firmaet er - som det blev kendt - fortsat med at producere innovative genstande af bjergbestigningsudstyr lige siden og er stadig i drift 120 år senere. Mange af Stubais innovationer er kommet fra Mountain Guides og førende alpinister, et klassisk eksempel er Stubai Aschenbrenner-isøksen, der blev skabt af Mountain Guide, Peter Aschenbrenner, produceret og markedsført af Stubai og brugt over hele verden i 1940/50 / 60'erne.
+*** andre
+
+Pitons blev bl.a. fabrikeret af
+- ASMU, fork. af August Schuster fra Munchen. Grundlagt i 1914 og blev en førende leverandører af udstyr på det tidspunkt. Bla. skibindinger, telt, tøj, steigeisen, isøkser, pitons og karabiner
+  ASMU navnet forsvandt i 1960'erne, men brandet lever videre under navnet Sporthaus Schuster.
+
+- Ricardo Cassin, Italien
+- Charlet Moser, Chamonix, Frankrig.
+- Salewa, Tyskland
+  Salewa startede som producent af lædervarer. Navnet kommer af 'Sattler und leder Waren' (da: Sadler og lædervarer)
+
 ** Videoer
 I 1994 var Lynn Hill var den første til at friklatre El Capitans's The Nose. En bedrift flere klatrer tidligere havde dømt umulig. Se en video af [[https://youtu.be/yS63AdRSnl8][Lynn Hill øve sig på nogle af sekvenserne]]
 
@@ -386,6 +421,33 @@ I 1994 var Lynn Hill var den første til at friklatre El Capitans's The Nose. En
 
 
 * footnotes
+General historisk information med billeder
+https://web.archive.org/web/20200908200216/https://www.johngill.net/
+
+[fn:19]
+[[https://ukbouldering.com/board/index.php?topic=6257.0][UKclimbing: History of the climbing shoe]]
+https://web.archive.org/web/20200909051826/http://www128.pair.com/r3d4k7/Bouldering_History2.0.html
+https://en.wikipedia.org/wiki/Climbing_shoe#History
+http://www.smhc.co.uk/objects_item.asp?item_id=32364
+
+[fn:18]
+[[https://web.archive.org/web/20080424011859/http://web.mit.edu/invent/iow/bramani.html][Vitale Bramani, inventer of Vibram]]
+https://vintageexpeditions.wordpress.com/2019/01/14/the-original-vibram-sole/
+
+[fn:17]
+[[http://www.smhc.co.uk/objects_item.asp?item_id=32421][Boot nails and shoe studs]]
+
+[fn:16]
+https://www.climbing.com/skills/pitoncraft-101/
+
+[fn:15]
+[[http://www.alpenverein.de/chameleon/outbox/public/10131/p_sic_14639.pdf][Test af isskruers holdestyrke]]
+[[https://beverlymountainguides.com/wp-content/uploads/2016/02/Ice-Climbing-Anchor-Strength_-An-In-Depth-Analysis.pdf][Test af genboret isskruers styrke og abalakov anker]] ([[file:litteratur/Ice-Climbing-Anchor-Strength_-An-In-Depth-Analysis.pdf][local kopi]])
+[[https://www.petzl.com/US/en/Sport/Forces-at-work-in-a-real-fall][Petzl: Forces at work in a real fall]]
+
+[fn:14]
+http://www.alpinist.com/doc/ALP47/27-tool-user-wart-hog
+http://www.smhc.co.uk/objects_item.asp?item_id=31930
 
 [fn:13]
 [[http://www.alpinist.com/doc/web12f/wfeature-eckenstein][Oscar Eckenstein's article "Über Steigeisentechnik"]]
