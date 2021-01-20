@@ -4,9 +4,11 @@
 * klatreudstyr
 ** karabiner
 Stålkarabiner blev først brugt til klatring omkring 1910, efter den tyske alpinist Otto Herzog havde set kavalarister benytte pæreformede karabiner til fastgørelse af skydevåben(også kalder karabin) til patrolbæltet.
-Kavalariet har brugt karabiner mindst siden starten af 1800-tallet.
+Kavalariet har brugt karabiner mindst siden starten af 1800-tallet.[fn:20]
+Før brugen af karabiner, blev rebet bundet fast til pitons med et stykke snor af 1.mand og derefter medtaget af 2.mand; hvilket igen var tidsbesparende i forhold til at 1.mand skulle binde sig af rebet, føre det gennem ringen på piton'en og binde sig ind igen.
+
 Ordet karabin er forkortet fra det tyske ord karabinerhaken(da: fjerderkrog).
-Omkring 1960 begyndte producenterne også at lave karabiner af aluminium i stedet for blot stål.
+I 1935 kom den første låsekarabin og omkring 1960 begyndte producenterne også at lave karabiner af aluminium i stedet for blot stål.
 De første wire-gate karabiner blev produceret af Black Diamond i 1991. Udover lavere vægt, vil den mindre masse af wire-gaten også forhindre at lukkeren momentant åbnes, hvis bagsiden af karabinen slynges mod klippen. På internettet er der anekdotisk beskrivelse af at inertien af faste lukkere kan åbne karabinen momentant.
 
 #+name: bonaiti_karabin
@@ -37,6 +39,11 @@ Indtil starten af 60'erne binder klatreren sig bare fast med rebet direkte om li
 I 1965 klatrer en gruppe britter som de først Trollvæggen i Norge. Blandt dem er Tony Howard der benytter en af de første bælter til klatring, lavet af en bred læderrem fra et bomuldsværk med påsyede udstyrsslynger. Efter turen laver Howard en udgave af bæltet med en nylon slynge, kaldet Troll Mark 2.
 I 1970 bliver Troll kontaktet af Don Whillans, der har brug for en komfortabel sele til den forestående 1970 Annapurna Sydvægsekspedition. Med sig har han ideen om et nylonsæde, der skal understøtte hofte og lår. Det fører til udviklingen af "Whillans Sit Harness" der i mange år var den eneste rigtige sele på markedet.
 Ulemped ved "Whillans Sit Harness" er dog at der løber et stykke nylon over skridtet og ved fald er der stor risiko for "ondt i skridtet"[fn:7]
+
+#+begin_quote
+
+The Whillans Harness was designed originally for prussiking and abseiling on fixed ropes on Bonington's expedition to the South Face of Annapurna in 1970; that is to say, while allowing the attachment of jumars, descendeurs, etc, it wasn't actually equipped with a rope tie-in point, the clip-in loop being low down on the crutch-strap, ie lower than desirable for rope attachment. On that particular expedition they took the Troll Chest-harness for rope attachment purposes, that model being, I think, already in existence. Troll subsequently modified the Whillans Harness into the ground-breaking conventional climbing harness that became the standard in the UK and elsewhere for a number of years. Chouinard marketed (I think) a double-buckle version of the original for a while (his business partner, and gear genius, Tom Frost was also on the Annapurna trip), but I don't know how successful it was in the US, particularly with strong competition in that area from, among others, Bill Forrest.
+#+end_quote
 
 Et eksempel på hvor fatalt et fald kunne være, fra før selens indførsel er det berømte billede af Toni Kurz der hænger død på et reb. Kurz var en del af et tysk/østrisk hold der forsøge at bestige Eigers nordvæg i 1936. Efter passage af den svære Hinterstoisser Travers trækker de rebet med sig. Da de senere bliver nød til at vende om, kan de ikke passere traversen og beslutter at rapelle ned. Uheldigvis bliver gruppen ramt af en lavine på sidste absail. Af de fire i gruppen dør to af fald, den tredje bliver kvalt af rebet der går omkring brystkassen og kun Kurz overlever lavinen. Han hænger imidlertid midt på rebet der er spændt ud af en død kammerat over- og under ham, ude af stand til at bevæge sig på rebet.
 Efter flere dage får et redningshold firet et sammenbundet reb ned til ham, men der er Kurz så medtaget at han er ude af stand til at passere knuden hvor de to reb er bundet sammen. Kurz dør kort efter at have udtalt /"Ich kann nicht mehr"/ og i dag kendes han fra det dramatiske billede.
@@ -91,7 +98,7 @@ EBs Super Gratton var den eneste reelle friktionssko mellem 60'erne-80'erne. I 1
 [[file:img/pierre_allain_fontainebleau_1938.jpg]]
 
 ** Steigeisen
-De første steigeisen til alpint brug blev designet af britten Oscar Eckenstein omkring 1908.[fn:13] Ved hjælp af den italienske smed Henry Grivel fra Mont Banc området, blev modellen med ti spidser og uden frontspidser kommercielt tilgængelig i 1910(frontspidser kom først i 1929). Bemærk at der ikke er en tværgående afstiver i front og bag, hvilket kan medføre dårlig stabilitet hvis kun een af forreste pigge bruges. Disse steigeisen var kun gode på sneis, ikke stive nok til lodret solid is(fx. vandfaldsis). Desuden var de smedet i en størrelse; det var ikke muligt at ændre længden på dem. De første justerbare steigeisen kom i 1961 lavet, i samarbejde mellem Salewe og tyskeren Herman Huber, da han ville have et steigeisen der passede både til ski- og bjergstøvler.
+De første steigeisen til alpint brug blev designet af britten Oscar Eckenstein omkring 1908.[fn:13] Ved hjælp af den italienske smed Henry Grivel fra Mont Banc området, blev modellen med ti spidser og uden frontspidser kommercielt tilgængelig i 1910(frontspidser kom først i 1929). Bemærk at der ikke er en tværgående afstiver i front og bag, hvilket kan medføre dårlig stabilitet hvis kun een af forreste pigge bruges. Disse steigeisen var kun gode på sneis, ikke stive nok til lodret solid is(fx. vandfaldsis). Desuden var de smedet til en størrelse; det var ikke muligt at ændre længden på dem. De første justerbare steigeisen kom i 1961 lavet, i samarbejde mellem det tyske firma Salewa og tyskeren Herman Huber, da han ville have et steigeisen der passede både til ski- og bjergstøvler.
 
 Efter 2. verdenskrig kom der gang i udviklingen igen og Yvon Chouinard konstruerede en helstiv steigeisen i 1967, der gjorde det muligt at klatre is "front pointing", dvs. banke de fremadpegende spidser ind i den hårde is.
 Det afløste den gamle teknik hvor forreste mand var en step-cutter(da: trappehugger) med helstive sømbeslåede støvler.
@@ -421,8 +428,12 @@ I 1994 var Lynn Hill var den første til at friklatre El Capitans's The Nose. En
 
 
 * footnotes
-General historisk information med billeder
-https://web.archive.org/web/20200908200216/https://www.johngill.net/
+
+[fn:20]
+Alpine Journal, Volume 74, Number 318 (year 1969).
+Under 'Equipment' sectionen, p. 6. Originalt af Toni Hiebeler, her bragt i oversættelse.
+The evolution of the karabiner in Alpine history. From the simple 'belt hook' to the aluminium 'snap link'
+https://www.alpinejournal.org.uk/Contents/Contents_1969_files/AJ%201969%20315-340%20Equipment.pdf
 
 [fn:19]
 [[https://ukbouldering.com/board/index.php?topic=6257.0][UKclimbing: History of the climbing shoe]]
@@ -448,6 +459,11 @@ https://www.climbing.com/skills/pitoncraft-101/
 [fn:14]
 http://www.alpinist.com/doc/ALP47/27-tool-user-wart-hog
 http://www.smhc.co.uk/objects_item.asp?item_id=31930
+
+Alpine Journal, Volume 74, Number 318 (year 1969).
+Under 'Equipment' sectionen, p. 324, *Ice-pitons*.
+https://www.alpinejournal.org.uk/Contents/Contents_1969_files/AJ%201969%20315-340%20Equipment.pdf
+"Ice-pitons were first employed in the Alps in 1924 by Fritz Rigele and Willi Welzenbach on the North-west face of the Grosses Wiesbachhorn."
 
 [fn:13]
 [[http://www.alpinist.com/doc/web12f/wfeature-eckenstein][Oscar Eckenstein's article "Über Steigeisentechnik"]]
@@ -495,5 +511,8 @@ https://www.climbing.com/people/the-nut-chronicles/
 http://www.paci.com.au/knots.php
 http://asiteaboutnothing.net/cr_most-useful-knots.html
 
-
+[fn:1]
 http://winterclimb.com/articles/item/61-climbing-mountaineering-dictionary
+
+General historisk information med billeder
+https://web.archive.org/web/20200908200216/https://www.johngill.net/
