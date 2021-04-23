@@ -89,8 +89,13 @@ Dette design holdt i mange år og blev brugt af "step cutters", der med en isøk
 Vibram gummisålen blev udviklet af italienske Vitale Bramani i 1935, der bestemte sig for at designe en bedre bjergstøvle efter at have mistet seks kammerater ved bjergbestigning; han analyserede sig frem til, at de måske havde overlevet hvade de haft en bedre støvle til mikset klippe- og isterræn.
 Efter 2. verdenskrig åbnede den første fabrik og Vibram sålen blev brugt på støvlerne ved den første bestigning af K2(Pakistan, 8611 meter), hvilket var med til gøre sålen populær i bjergbestiger-kredse.[fn:18]
 
-Friktionssko til klippeklatring blev udviklet af den franske alpinist Pierre Allain i 30'erne. Han begyndte at boulder i Fontainebleau og fandt at sneakers var bedre end bjergstøvler, men at de manglede gummi på siderne og var upræcise pga. den runde og store form. Det blev til modellen PA sidst i 40'erne. I 50'erne køber Edmond Bourdonneau P. Allains forretning og mærker skoene med EB.
+Friktionssko til klippeklatring blev udviklet af den franske alpinist Pierre Allain i 30'erne. Han begyndte at træne hårdt på boulderne i Fontainebleau og fandt at sneakers var bedre end bjergstøvler, men at de manglede gummi på siderne og var upræcise pga. den runde og store form. Det blev til klatreskoen PA sidst i 40'erne. I 50'erne køber Edmond Bourdonneau Allains forretning og mærker skoene med EB.
 EBs Super Gratton var den eneste reelle friktionssko mellem 60'erne-80'erne. I 1982 kommer Boreal med den første sko med det revolutionerende 'sticky rubber', der minder om den gummi der bruges i dag.[fn:19]
+
+Bemærk at Allain klatrede 6A boulderen 'Allain Angle' i 1934 og var første-bestiger af nordvæggen på Petit Dry i 35, en af de seks klassiske nordvægge i Alperne.[fn:21]
+
+
+
 
 #+name: pierre_allain_fontainebleau_1938
 #+caption: Pierre Allain i Fontainebleau, 1938
@@ -428,6 +433,10 @@ I 1994 var Lynn Hill var den første til at friklatre El Capitans's The Nose. En
 
 
 * footnotes
+
+[fn:21]
+[[https://bleau.info/rempart/2114.html][L'Angle Allain, 6A]]
+https://en.wikipedia.org/wiki/Great_north_faces_of_the_Alps
 
 [fn:20]
 Alpine Journal, Volume 74, Number 318 (year 1969).
